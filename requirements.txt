@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+XlsxWriter
+SQLAlchemy
+psycopg2-binary
