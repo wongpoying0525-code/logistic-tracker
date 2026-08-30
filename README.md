@@ -1,7 +1,7 @@
 # Logistic Tracker
 
 A web-based multi-carrier shipment tracking tool built with
-Python, Streamlit, PostgreSQL and Supabase.
+Streamlit, PostgreSQL and Supabase.
 
 ## Live Demo
 
@@ -9,7 +9,7 @@ https://appapppy-zqqdgpp52wehxxumxy9bku.streamlit.app/
 
 ## Features
 
-- UPS, DHL and FedEx tracking API integration
+- Ttracking API integration
 - Batch tracking number input
 - Shipment status and tracking history
 - PostgreSQL / Supabase data storage
@@ -18,12 +18,10 @@ https://appapppy-zqqdgpp52wehxxumxy9bku.streamlit.app/
 
 ## Tech Stack
 
-- Python
 - Streamlit
 - PostgreSQL
 - Supabase
 - SQLAlchemy
-- UPS / DHL / FedEx APIs
 
 ## Run Locally
 
